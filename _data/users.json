@@ -1,0 +1,42 @@
+[
+  {
+    "motherName": "Aza Hassan Ahmed",
+    "email": "Aza@gmail.com",
+    "phone": "0123456789",
+    "address": "Banha",
+    "role": "user",
+    "password": "123456"
+  },
+  {
+    "motherName": "Nada Mohamed Abduallah",
+    "email": "Nada@gmail.com",
+    "phone": "0123456795",
+    "address": "Banha",
+    "role": "user",
+    "password": "65489456"
+  },
+  {
+    "motherName": "Nesma Ali Mustapha Darrag",
+    "email": "Nesma@gmail.com",
+    "phone": "01345487987",
+    "address": "Banha",
+    "role": "user",
+    "password": "6547881318"
+  },
+  {
+    "motherName": "Shadia Abdullah Mahmoud Bayomy ",
+    "email": "Shadia@gmail.com",
+    "phone": "0115487965",
+    "address": "Banha",
+    "role": "user",
+    "password": "32165474565"
+  },
+  {
+    "motherName": "Salma Mohamed Adel Mansour",
+    "email": "Salma@gmail.com",
+    "phone": "0158765421",
+    "address": "Banha",
+    "role": "user",
+    "password": "8971849554212"
+  }
+]
